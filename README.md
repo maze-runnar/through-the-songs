@@ -1,31 +1,15 @@
-![](http://i.imgur.com/YiFZyuW.png)
 
-# What is Viberr?
+# What is Alcatraz?
 
-Viberr is an application that let's you upload, store, and play all of your music from the cloud. You can now manage and listen to your music from any device, anywhere in the world. 
+Alcatraz is an application that let's you upload, store, and play all of your music from the cloud. You can now manage and listen to your music from any device, anywhere in the world. 
 
-![](http://i.imgur.com/9Ix2CbR.png)
-
-## How does it work?
-
-To get started, first create a new album. When adding an album cover logo, it's best to have a resolution of at least 512x512 and to use common image formats such as JPG, JPEG, or PNG.
-
-![](http://i.imgur.com/RsGZfUq.png)
-
-## Adding Songs
-
-After an album is created you will then be able to add/upload songs. Currently supported file types are WAV, MP3, and OGG.
-
-![](http://i.imgur.com/gTNrnV6.png)
-
-## My Songs
-
-Once songs are added to an album you are then able to play, favorite, and delete them.
-
-![](http://i.imgur.com/ggcgbz0.png)
-
-## Searching
-
-You can also search for music using the search feature at the top of every page. Any relevant albums will appear at the top of the results page, and the results for individual songs will appear below. 
-
-![](http://i.imgur.com/kfkFA3N.png)
+<img src="https://i.ibb.co/WxKb00C/Screenshot-from-2020-04-22-17-47-31.png" alt="Screenshot-from-2020-04-22-17-47-31" border="0">
+<img src="https://i.ibb.co/PwvnkPP/Screenshot-from-2020-04-22-17-47-39.png" alt="Screenshot-from-2020-04-22-17-47-39" border="0">
+<img src="https://i.ibb.co/cgVYsWF/Screenshot-from-2020-04-22-17-47-51.png" alt="Screenshot-from-2020-04-22-17-47-51" border="0">
+<img src="https://i.ibb.co/82J0m98/Screenshot-from-2020-04-22-17-48-00.png" alt="Screenshot-from-2020-04-22-17-48-00" border="0">
+<img src="https://i.ibb.co/G2tqsDd/Screenshot-from-2020-04-22-17-48-18.png" alt="Screenshot-from-2020-04-22-17-48-18" border="0">
+<img src="https://i.ibb.co/MnSZtq2/Screenshot-from-2020-04-22-17-48-53.png" alt="Screenshot-from-2020-04-22-17-48-53" border="0">
+<img src="https://i.ibb.co/PZZYzNy/Screenshot-from-2020-04-22-17-52-47.png" alt="Screenshot-from-2020-04-22-17-52-47" border="0">
+<img src="https://i.ibb.co/5RtJXBr/Screenshot-from-2020-04-22-17-52-55.png" alt="Screenshot-from-2020-04-22-17-52-55" border="0">
+<img src="https://i.ibb.co/6JBL3xr/Screenshot-from-2020-04-22-17-53-55.png" alt="Screenshot-from-2020-04-22-17-53-55" border="0">
+<img src="https://i.ibb.co/BNcPMKJ/Screenshot-from-2020-04-22-17-54-22.png" alt="Screenshot-from-2020-04-22-17-54-22" border="0">
