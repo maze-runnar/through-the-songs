@@ -2,7 +2,7 @@
 # What is Songslib?
 
 Songslib is an application that let's you upload, store, and play all of your music from the cloud. You can now manage and listen to your music from any device, anywhere in the world. 
-You can make your on collection by artist or whatever you want.
+You can make your on collection by artist or whatever you want.You can make album of your favorite songs.<br>
 Scope is to implement spotify next.
 
 <img src="https://i.ibb.co/WxKb00C/Screenshot-from-2020-04-22-17-47-31.png" alt="Screenshot-from-2020-04-22-17-47-31" border="0">
